@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CEAE0057-E850-DF51-CA79-3C5EF0B9A3BA}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/levelManagerFunctions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="12" Column="22" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ItemDropHandlerFood.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ItemDropHandlerPills.cs" Line="38" Column="5" />
+      <File FileName="Assets/Scripts/ItemDropHandler.cs" Line="29" Column="9" />
+      <File FileName="Assets/Scripts/levelmanager.cs" Line="78" Column="32" />
+      <File FileName="Assets/Scripts/levelManagerFunctions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
